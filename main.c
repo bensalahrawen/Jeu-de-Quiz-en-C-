@@ -304,7 +304,10 @@ void level()
     system("cls");
     if(i==0)
 {
+printf("\n--- modifications ajoutées ---\n");).
+    printf("\n--- DEBUT DE LA PARTIE---\n");).
 
+    return 0;
 printf("                   ===================================================\n");
 printf("                              BIENVENUE AU NIVEAU 1                  \n"); }
 
@@ -488,7 +491,6 @@ int main() {
         }
     } while (rep == 1);
 
-    return 0;
 }
 
 
