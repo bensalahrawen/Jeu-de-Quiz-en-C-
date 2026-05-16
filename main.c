@@ -55,6 +55,7 @@ int random_unique_index();
 // la fonction du menu principale : le bienvenue et demande à l'utilisateur de choisir une option
 char welcome ()
 {
+    printf("--- Modification apportee par le binome ---\n");
     printf("                                     THIS IS YOUR CHANCE TO BECOME A MILLIONAIRE !!\n");
     printf("                                           *****************************\n");
     printf("                                                      WELCOME           \n");
